@@ -1,7 +1,8 @@
 {
-  "name": "api-proxy",
-  "version": "1.0.0",
+  "name": "sms-api-proxy",
+  "version": "2.0.0",
+  "private": true,
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   }
 }
